@@ -1,4 +1,4 @@
-![BC-1](https://github.com/user-attachments/assets/663728a6-207c-4dcf-be83-862d30a03a2e)# BACKGROUND CHANGER
+# BACKGROUND CHANGER
 
 This is a Background Changer web application built with React and powered by Vite for fast development. The project allows users to dynamically change the background of the webpage or a particular section of the page.
 Currently, two official plugins are available:
