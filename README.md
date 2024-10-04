@@ -6,20 +6,20 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-# Features
+## Features
 
 >> Change background color or image.
 >> Simple and fast interface.
 >> Built with React for a dynamic user experience.
 >> Developed with Vite for lightning-fast development and hot-reloading.
 
-# Tech Stack
+## Tech Stack
 
 >> Vite: Next generation frontend tooling.
 >> React: JavaScript library for building user interfaces.
 >> Tailwind CSS (optional): Utility-first CSS framework for rapid UI development.
 
-# Screenshot
+## Screenshot
 
 ![BC-1](https://github.com/user-attachments/assets/3bc3bad5-08e0-41ee-b1bf-fb95363b4b99)
 
